@@ -52,6 +52,8 @@ A number of useful visualizations are shown below, which demonstrate the main re
 
 ![Top stations by borough](top_stations_by_boro.png)
 
+![Top stations in Bronx](bronx_top_stations.png)
+
 ![Station traffic by day](station_traffic_day.png)
 
 ![Map of top stations in the Bronx](station_locations.png)
